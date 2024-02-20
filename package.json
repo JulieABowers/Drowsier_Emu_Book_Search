@@ -12,13 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "@apollo/server": "^4.10.0",
-    "apollo-server-express": "^3.6.1"
-    "dotenv": "^16.3.1"
-    "graphql": "^16.2.0"
-  },
+  "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.2.0"
   }
